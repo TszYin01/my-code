@@ -1,0 +1,7 @@
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\sinple calculator\sinple calculator\obj\Debug\sinple calculator.csproj.AssemblyReference.cache
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\sinple calculator\sinple calculator\obj\Debug\sinple calculator.csproj.CoreCompileInputs.cache
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\sinple calculator\sinple calculator\bin\Debug\sinple calculator.exe.config
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\sinple calculator\sinple calculator\bin\Debug\sinple calculator.exe
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\sinple calculator\sinple calculator\bin\Debug\sinple calculator.pdb
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\sinple calculator\sinple calculator\obj\Debug\sinple calculator.exe
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\sinple calculator\sinple calculator\obj\Debug\sinple calculator.pdb

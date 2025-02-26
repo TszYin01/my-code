@@ -1,0 +1,7 @@
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\intro to programming\intro to programming\bin\Debug\intro to programming.exe.config
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\intro to programming\intro to programming\bin\Debug\intro to programming.exe
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\intro to programming\intro to programming\bin\Debug\intro to programming.pdb
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\intro to programming\intro to programming\obj\Debug\intro to programming.csproj.AssemblyReference.cache
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\intro to programming\intro to programming\obj\Debug\intro to programming.csproj.CoreCompileInputs.cache
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\intro to programming\intro to programming\obj\Debug\intro to programming.exe
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\intro to programming\intro to programming\obj\Debug\intro to programming.pdb

@@ -1,0 +1,7 @@
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\arrays and lists\arrays and lists\obj\Debug\arrays and lists.csproj.AssemblyReference.cache
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\arrays and lists\arrays and lists\obj\Debug\arrays and lists.csproj.CoreCompileInputs.cache
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\arrays and lists\arrays and lists\bin\Debug\arrays and lists.exe.config
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\arrays and lists\arrays and lists\bin\Debug\arrays and lists.exe
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\arrays and lists\arrays and lists\bin\Debug\arrays and lists.pdb
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\arrays and lists\arrays and lists\obj\Debug\arrays and lists.exe
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\arrays and lists\arrays and lists\obj\Debug\arrays and lists.pdb

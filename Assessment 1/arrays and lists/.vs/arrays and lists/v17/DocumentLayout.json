@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s250231\\OneDrive - The Academy of Interactive Entertainment Ltd\\game dev\\Assessment 1\\arrays and lists\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E66A42EF-77FC-4879-851E-D741F62F133C}|arrays and lists\\arrays and lists.csproj|c:\\users\\s250231\\onedrive - the academy of interactive entertainment ltd\\game dev\\assessment 1\\arrays and lists\\arrays and lists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66A42EF-77FC-4879-851E-D741F62F133C}|arrays and lists\\arrays and lists.csproj|solutionrelative:arrays and lists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\s250231\\OneDrive - The Academy of Interactive Entertainment Ltd\\game dev\\Assessment 1\\arrays and lists\\arrays and lists\\Program.cs",
+              "RelativeDocumentMoniker": "arrays and lists\\Program.cs",
+              "ToolTip": "C:\\Users\\s250231\\OneDrive - The Academy of Interactive Entertainment Ltd\\game dev\\Assessment 1\\arrays and lists\\arrays and lists\\Program.cs*",
+              "RelativeToolTip": "arrays and lists\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T00:52:04.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

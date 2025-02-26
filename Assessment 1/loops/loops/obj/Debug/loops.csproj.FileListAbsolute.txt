@@ -1,0 +1,7 @@
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\loops\loops\bin\Debug\loops.exe.config
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\loops\loops\bin\Debug\loops.exe
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\loops\loops\bin\Debug\loops.pdb
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\loops\loops\obj\Debug\loops.csproj.AssemblyReference.cache
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\loops\loops\obj\Debug\loops.csproj.CoreCompileInputs.cache
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\loops\loops\obj\Debug\loops.exe
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\loops\loops\obj\Debug\loops.pdb
