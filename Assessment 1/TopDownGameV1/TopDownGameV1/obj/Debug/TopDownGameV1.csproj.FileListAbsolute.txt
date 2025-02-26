@@ -1,0 +1,7 @@
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\TopDownGameV1\TopDownGameV1\bin\Debug\TopDownGameV1.exe.config
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\TopDownGameV1\TopDownGameV1\bin\Debug\TopDownGameV1.exe
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\TopDownGameV1\TopDownGameV1\bin\Debug\TopDownGameV1.pdb
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\TopDownGameV1\TopDownGameV1\obj\Debug\TopDownGameV1.csproj.AssemblyReference.cache
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\TopDownGameV1\TopDownGameV1\obj\Debug\TopDownGameV1.csproj.CoreCompileInputs.cache
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\TopDownGameV1\TopDownGameV1\obj\Debug\TopDownGameV1.exe
+C:\Users\s250231\OneDrive - The Academy of Interactive Entertainment Ltd\game dev\Assessment 1\TopDownGameV1\TopDownGameV1\obj\Debug\TopDownGameV1.pdb
