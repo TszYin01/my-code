@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\s250231\\OneDrive - The Academy of Interactive Entertainment Ltd\\game dev\\Assessment 1\\TopDownGameV1\\",
+  "WorkspaceRootPath": "C:\\Users\\s250231\\Documents\\GitHub\\my-code\\Assessment 1\\TopDownGameV1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB841C21-0174-4CF8-871C-CC504F82BE63}|TopDownGameV1\\TopDownGameV1.csproj|c:\\users\\s250231\\onedrive - the academy of interactive entertainment ltd\\game dev\\assessment 1\\topdowngamev1\\topdowngamev1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB841C21-0174-4CF8-871C-CC504F82BE63}|TopDownGameV1\\TopDownGameV1.csproj|c:\\users\\s250231\\documents\\github\\my-code\\assessment 1\\topdowngamev1\\topdowngamev1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB841C21-0174-4CF8-871C-CC504F82BE63}|TopDownGameV1\\TopDownGameV1.csproj|solutionrelative:topdowngamev1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,21 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\s250231\\OneDrive - The Academy of Interactive Entertainment Ltd\\game dev\\Assessment 1\\TopDownGameV1\\TopDownGameV1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\s250231\\Documents\\GitHub\\my-code\\Assessment 1\\TopDownGameV1\\TopDownGameV1\\Program.cs",
               "RelativeDocumentMoniker": "TopDownGameV1\\Program.cs",
-              "ToolTip": "C:\\Users\\s250231\\OneDrive - The Academy of Interactive Entertainment Ltd\\game dev\\Assessment 1\\TopDownGameV1\\TopDownGameV1\\Program.cs",
+              "ToolTip": "C:\\Users\\s250231\\Documents\\GitHub\\my-code\\Assessment 1\\TopDownGameV1\\TopDownGameV1\\Program.cs",
               "RelativeToolTip": "TopDownGameV1\\Program.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAgwCMAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T00:36:37.468Z",
               "EditorCaption": ""
